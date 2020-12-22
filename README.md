@@ -1,6 +1,6 @@
-# tailwind-demo
+# starwars card
 
-> Vuejs with tailwind demo
+> Starwars information using tailwindcss and swapi
 
 ## Build Setup
 
